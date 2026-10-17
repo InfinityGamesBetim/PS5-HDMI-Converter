@@ -4,11 +4,10 @@ Utilitário de bancada para **converter o tipo de HDMI gravado na NOR do PS5**
 entre **Realtek**, **Panasonic** e **Nuvoton**, recalculando o checksum do bloco
 para o console não bipar.
 
-> Programa de bancada para técnicos. **Binário fechado** — aqui fica o
-> executável, não o código-fonte.
+> Programa de bancada para técnicos.
 
 **Software por Felipe Calmon (InfinityGames).**
-**Estudos do HDMI do PS5: TXD Games e Thiago Max.**
+**Estudos do Offset do HDMI do PS5: TXD Games e Thiago Max.**
 
 ---
 
