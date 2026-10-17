@@ -1,0 +1,8 @@
+# Binário fechado: o .exe é distribuído pela aba Releases, não versionado aqui.
+*.exe
+# O código-fonte não é publicado.
+*.py
+__pycache__/
+*.spec
+build/
+dist/
