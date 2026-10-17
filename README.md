@@ -47,7 +47,7 @@ Não precisa instalar — é só abrir.
 - **Estudos do HDMI do PS5:** **TXD Games** e **Thiago Max**.
 - **Software:** **Felipe Calmon** — InfinityGames.
 
-Interposer Realtek da InfinityGames: <https://infinitygames.com.br/realtek/>
+**Onde comprar o Interposer Realtek:** <https://infinitygames.com.br/realtek/>
 
 ## Aviso
 
