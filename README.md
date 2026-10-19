@@ -6,7 +6,7 @@ para o console não bipar.
 
 > Programa de bancada para técnicos.
 
-**Software por Felipe Calmon (InfinityGames).**
+**Software e finalização do offset por Felipe Calmon (InfinityGames).**
 **Estudos do Offset do HDMI do PS5: TXD Games e Thiago Max.**
 
 O programa funciona em **três idiomas — Português, English e Español** — com
@@ -52,7 +52,7 @@ Não precisa instalar — é só abrir.
 ## Créditos
 
 - **Estudos do HDMI do PS5:** **TXD Games** e **Thiago Max**.
-- **Software:** **Felipe Calmon** — InfinityGames.
+- **Software e finalização do offset:** **Felipe Calmon** — InfinityGames.
 
 **Onde comprar o Interposer Realtek:** <https://infinitygames.com.br/realtek/>
 
