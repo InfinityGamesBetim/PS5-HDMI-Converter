@@ -9,10 +9,20 @@ para o console não bipar.
 **Software por Felipe Calmon (InfinityGames).**
 **Estudos do Offset do HDMI do PS5: TXD Games e Thiago Max.**
 
+O programa funciona em **três idiomas — Português, English e Español** — com
+troca de idioma **na hora**, e faz **leitura e gravação da NOR** direto pelo
+RP2040.
+
+![Conversor HDMI PS5](docs/screenshot.png)
+
 ---
 
 ## O que o programa faz
 
+- **Três idiomas:** Português, English e Español, selecionáveis na hora pelo
+  menu no topo.
+- **Lê e grava a NOR** do PS5 direto por um **RP2040** (Raspberry Pi Pico /
+  Pico Zero) — além de abrir/salvar arquivo `.bin`.
 - Reconhece o tipo de HDMI na NOR (**Realtek / Panasonic / Nuvoton**) e
   **converte** entre eles.
 - **Recalcula o checksum** do bloco HDMI — sem isso, o console bipa / não dá
@@ -22,8 +32,6 @@ para o console não bipar.
   firmware, slot ativo) para você confirmar que leu certo.
 - **Não altera identidade** (MAC, serial, SOCUID) **nem o módulo WiFi** — mexe
   só no setor do HDMI.
-- Fontes da NOR: **abrir/salvar `.bin`** ou **ler/gravar o chip direto por um
-  RP2040** (Raspberry Pi Pico / Pico Zero).
 - **Grava o firmware no RP2040** (modo BOOTSEL) e mostra o **diagrama de
   ligação** dos fios — tudo dentro do programa.
 - Interface escura, simples, feita para bancada.
