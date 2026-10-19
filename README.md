@@ -95,8 +95,7 @@ Converte o HDMI do PS5 para Nuvoton direto no hardware.
 ## Créditos
 
 - **Estudos do offset de HDMI do PS5:** **TXD Games** e **Thiago Max**.
-- **Software e finalização do offset:** **Felipe Calmon**, InfinityGames
-  ([@infinitygamesinfo](https://www.instagram.com/infinitygamesinfo)).
+- **Software e finalização do offset:** **Felipe Calmon**, InfinityGames.
 
 ## Aviso
 
